@@ -1,8 +1,8 @@
 KillAura:ESP:Box
 KillAura:Priority:Health
 KillAura:Mode:Switch
-KillAura:APS:14.0
-KillAura:Reach:4.4
+KillAura:APS:12.0
+KillAura:Reach:4.3
 KillAura:Autoblock:true
 KillAura:Players:true
 KillAura:Animals:false
