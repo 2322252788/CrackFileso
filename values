@@ -16,7 +16,7 @@ KillAura:Animals:false
 KillAura:Mobs:false
 KillAura:Invisibles:true
 Velocity:Percent:0.0
-ESP:Mode:Other2D
+ESP:Mode:New2D
 Chams:Mode:Normal
 Sprint:All-Direction:true
 Speed:Mode:Hypixel
