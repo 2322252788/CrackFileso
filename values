@@ -30,11 +30,15 @@ Fly:Particle:false
 Bugup:OnlyVoid:true
 Bugup:Distance:1.0
 Bugup:Mode:Hypixel
+AntiFall:OnlyVoid:true
+AntiFall:Distance:1.0
+AntiFall:Mode:Hypixel
 Scaffold:Tower:true
 Scaffold:Silent:true
 Scaffold:Mode:Normal
 Jesus:Mode:Dolphin
 Penshen:Delay:1.0
+AutoAbuse:Delay:1.0
 ModCheck:ShowOffline:true
 ModCheck:ShowOnline:true
 Fucker:Mode:Bed
