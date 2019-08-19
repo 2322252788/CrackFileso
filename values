@@ -20,11 +20,11 @@ ESP:Mode:New2D
 Chams:Mode:Normal
 Sprint:All-Direction:true
 Speed:Mode:Hypixel
-Speed:LagCheck:false
+Speed:LagCheck:true
 LongJump:Mode:NCP
 Fly:Mode:HypixelZoom
 Fly:Boost:0.0
-Fly:LagCheck:false
+Fly:LagCheck:true
 Fly:Dragon:false
 Fly:Particle:false
 Bugup:OnlyVoid:true
