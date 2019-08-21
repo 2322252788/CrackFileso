@@ -6,7 +6,7 @@ AutoHeal:Delay:150.0
 BowAimbot:Look:false
 Criticals:Mode:Hypixel
 KillAura:ESP:Box
-KillAura:Priority:Angle
+KillAura:Priority:Health
 KillAura:Mode:Switch
 KillAura:APS:13.0
 KillAura:Reach:4.4
