@@ -39,7 +39,7 @@ Scaffold:Mode:Normal
 Jesus:Mode:Dolphin
 Penshen:Delay:1.0
 AutoAbuse:Delay:1.0
-ModCheck:ShowOffline:true
+ModCheck:ShowOffline:false
 ModCheck:ShowOnline:true
 Fucker:Mode:Bed
 ChestSteal:Delay:50.0
