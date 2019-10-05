@@ -41,6 +41,8 @@ Penshen:Delay:1.0
 AutoAbuse:Delay:1.0
 ModCheck:ShowOffline:false
 ModCheck:ShowOnline:true
+AutoL:Wdr:true
+AutoGG:AD:false
 Fucker:Mode:Bed
 ChestSteal:Delay:50.0
 InvCleaner:Toggle:false
