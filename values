@@ -9,7 +9,7 @@ KillAura:Animals:false
 KillAura:Mobs:false
 KillAura:Invisibles:false
 Velocity:Percent:0.0
-Criticals:Mode:Hanabi
+Criticals:Mode:Remix
 Hitbox:Size:0.5
 AntiBot:Mode:Hypixel
 AutoHeal:Mode:Potion
@@ -22,8 +22,6 @@ HUD:Rainbow:false
 HUD:Text:false
 HUD:Image:true
 ESP:Mode:New2D
-Hitbox:Scale:0.5
-Hitbox:hitbox_size:0.5
 Radar:Scale:1.0
 Radar:X:765.0
 Radar:Y:420.0
@@ -55,4 +53,3 @@ ChestSteal:Delay:50.0
 AutoArmor:delay:180.0
 InvCleaner:Toggle:false
 Music:Mode:ElectroHouse
-Music:Mode:Beautiful_Now
