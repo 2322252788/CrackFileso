@@ -9,7 +9,7 @@ KillAura:Animals:false
 KillAura:Mobs:false
 KillAura:Invisibles:false
 Velocity:Percent:0.0
-Criticals:Mode:Remix
+Criticals:Mode:Hanabi
 Hitbox:Size:0.5
 AntiBot:Mode:Hypixel
 AutoHeal:Mode:Potion
