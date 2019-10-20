@@ -1,5 +1,5 @@
 KillAura:ESP:Box
-KillAura:Priority:Range
+KillAura:Priority:Angle
 KillAura:Mode:Switch
 KillAura:APS:13.0
 KillAura:Reach:4.3
@@ -22,10 +22,12 @@ HUD:Rainbow:false
 HUD:Text:false
 HUD:Image:true
 ESP:Mode:New2D
+Hitbox:Scale:0.5
+Hitbox:hitbox_size:0.5
 Radar:Scale:1.0
-Radar:X:480.0
-Radar:Y:270.0
-Radar:Size:75.0
+Radar:X:765.0
+Radar:Y:420.0
+Radar:Size:90.0
 Radar:mode:Normal
 Chams:Mode:Normal
 Speed:mode:Hypixel
@@ -41,7 +43,7 @@ Scaffold:tower:true
 Scaffold:Silent:true
 Scaffold:Bobbing:false
 Scaffold:AAC:false
-Scaffold:BoxMode:none
+Scaffold:BoxMode:Zeroday
 Jesus:Mode:Dolphin
 AutoAbuse:Delay:1.0
 AutoL:Wdr:true
@@ -50,6 +52,7 @@ ModCheck:ShowOffline:false
 ModCheck:ShowOnline:true
 Fucker:Mode:Bed
 ChestSteal:Delay:50.0
-AutoArmor:delay:50.0
+AutoArmor:delay:180.0
 InvCleaner:Toggle:false
 Music:Mode:ElectroHouse
+Music:Mode:Beautiful_Now
