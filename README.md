@@ -1,7 +1,7 @@
 以前从Ho3的Github搬过来的所以一个名字
 
 
-本人有制作HackClient，不出售
+本人有制作私人HackClient(Mod)
 
 
 你在HWID里看到的都是2018年更新的
